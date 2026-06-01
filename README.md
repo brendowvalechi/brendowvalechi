@@ -5,8 +5,8 @@
 **Desenvolvedor Python Backend · Analista de Dados no Setor Público**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brendow-valechi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brendowvalechi1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/brendow-henrique-valechi-ramos-1b47531a1/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvalechi@gmail.com)
 
 </div>
 
@@ -66,8 +66,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brendowvalechi&show_icons=true&theme=dark&hide_border=true&locale=pt-br)
+[![GitHub Streak](https://streak-stats.demolab.com?user=brendowvalechi&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendowvalechi&layout=compact&theme=dark&hide_border=true&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendowvalechi&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 </div>
